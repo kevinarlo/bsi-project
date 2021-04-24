@@ -21,107 +21,47 @@
                 </div> <!-- section title -->
             </div>
         </div> <!-- row -->
-        
-        <div class="row">
-            <div class="col-lg-6">
-                <div class="single-about d-sm-flex mt-30 wow fadeInUp" data-wow-duration="1.0s" data-wow-delay="1.2s">
-                    <img src="{{ url('landing/assets/images/f1.png') }}" class="rounded float-left">
-                </div>
+   
+        <!-- Start WOWSlider.com BODY section -->
+        <div id="wowslider-container1">
+            <div class="ws_images">
+                <ul>
+                    <li><img src="{{ url('landing/assets/data1/images/f1.png') }}" alt="f1" title="" id="wows1_0"/></li>
+                    <li><img src="{{ url('landing/assets/data1/images/f2.png') }}" alt="f2" title="" id="wows1_1"/></li>
+                    <li><img src="{{ url('landing/assets/data1/images/f3.png') }}" alt="f3" title="" id="wows1_2"/></li>
+                    <li><img src="{{ url('landing/assets/data1/images/f4.png') }}" alt="f4" title="" id="wows1_3"/></li>
+                    <li><img src="{{ url('landing/assets/data1/images/f5.png') }}" alt="f5" title="" id="wows1_4"/></li>
+                    <li><img src="{{ url('landing/assets/data1/images/f6.png') }}" alt="f6" title="" id="wows1_5"/></li>
+                    <li><img src="{{ url('landing/assets/data1/images/f7.png') }}" alt="f7" title="" id="wows1_6"/></li>
+                    <li><img src="{{ url('landing/assets/data1/images/f8.png') }}" alt="f8" title="" id="wows1_7"/></li>
+                    <li><img src="{{ url('landing/assets/data1/images/f9.png') }}" alt="f9" title="" id="wows1_8"/></li>
+                    <li><img src="{{ url('landing/assets/data1/images/f10.png') }}" alt="f10" title="" id="wows1_9"/></li>
+                    <li><img src="{{ url('landing/assets/data1/images/f11.png') }}" alt="f11" title="" id="wows1_10"/></li>
+                    <li><img src="{{ url('landing/assets/data1/images/f12.png') }}" alt="image carousel" title="" id="wows1_11"/></a></li>
+                    <li><img src="{{ url('landing/assets/data1/images/f13.png') }}" alt="f13" title="" id="wows1_12"/></li>
+                </ul>
             </div>
-
-            <div class="col-lg-6">
-                <div class="single-about d-sm-flex mt-30 wow fadeInUp" data-wow-duration="1.0s" data-wow-delay="1.4s">
-                    <img src="{{ url('landing/assets/images/f2.png') }}" class="rounded float-right">
+                <div class="ws_bullets">
+                    <a href="#" title="f1"><span><img src="{{ url('landing/assets/data1/tooltips/f1.png') }}" alt=""/>1</span></a>
+                    <a href="#" title="f2"><span><img src="{{ url('landing/assets/data1/tooltips/f2.png') }}" alt=""/>2</span></a>
+                    <a href="#" title="f3"><span><img src="{{ url('landing/assets/data1/tooltips/f3.png') }}" alt=""/>3</span></a>
+                    <a href="#" title="f4"><span><img src="{{ url('landing/assets/data1/tooltips/f4.png') }}" alt=""/>4</span></a>
+                    <a href="#" title="f5"><span><img src="{{ url('landing/assets/data1/tooltips/f5.png') }}" alt=""/>5</span></a>
+                    <a href="#" title="f6"><span><img src="{{ url('landing/assets/data1/tooltips/f6.png') }}" alt=""/>6</span></a>
+                    <a href="#" title="f7"><span><img src="{{ url('landing/assets/data1/tooltips/f7.png') }}" alt=""/>7</span></a>
+                    <a href="#" title="f8"><span><img src="{{ url('landing/assets/data1/tooltips/f8.png') }}" alt=""/>8</span></a>
+                    <a href="#" title="f9"><span><img src="{{ url('landing/assets/data1/tooltips/f9.png') }}" alt=""/>9</span></a>
+                    <a href="#" title="f10"><span><img src="{{ url('landing/assets/data1/tooltips/f10.png') }}" alt=""/>10</span></a>
+                    <a href="#" title="f11"><span><img src="{{ url('landing/assets/data1/tooltips/f11.png') }}" alt=""/>11</span></a>
+                    <a href="#" title="f12"><span><img src="{{ url('landing/assets/data1/tooltips/f12.png') }}" alt=""/>12</span></a>
+                    <a href="#" title="f13"><span><img src="{{ url('landing/assets/data1/tooltips/f13.png') }}" alt=""/>13</span></a>
                 </div>
-            </div>
-
-            <div class="col-lg-6">
-                <div class="single-about d-sm-flex mt-30 wow fadeInUp" data-wow-duration="1.0s" data-wow-delay="1.6s">
-                    <img src="{{ url('landing/assets/images/f3.png') }}" class="rounded float-left">
-                </div>
-            </div>
-
-            <div class="col-lg-6">
-                <div class="single-about d-sm-flex mt-30 wow fadeInUp" data-wow-duration="1.0s" data-wow-delay="1.8s">
-                    <img src="{{ url('landing/assets/images/f4.png') }}" class="rounded float-right">
-                </div>
-        </div> <!-- row -->
-    </div> <!-- container -->
-</section>
-
-<!--====== ABOUT PART ENDS ======-->
-
-<!--====== ABOUT PART START ======-->
-
-<section id="about" class="about-area">
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-xl-6 col-lg-8">
-            </div>
-        </div> <!-- row -->
-        
-        <div class="row">
-            <div class="col-lg-6">
-                <div class="single-about d-sm-flex mt-30 wow fadeInUp" data-wow-duration="1.0s" data-wow-delay="1.2s">
-                    <img src="{{ url('landing/assets/images/f5.png') }}" class="rounded float-left">
-                </div>
-            </div>
-
-            <div class="col-lg-6">
-                <div class="single-about d-sm-flex mt-30 wow fadeInUp" data-wow-duration="1.0s" data-wow-delay="1.4s">
-                    <img src="{{ url('landing/assets/images/f13.png') }}" class="rounded float-right">
-                </div>
-            </div>
-
-            <div class="col-lg-6">
-                <div class="single-about d-sm-flex mt-30 wow fadeInUp" data-wow-duration="1.0s" data-wow-delay="1.6s">
-                    <img src="{{ url('landing/assets/images/f7.png') }}" class="rounded float-left">
-                </div>
-            </div>
-
-            <div class="col-lg-6">
-                <div class="single-about d-sm-flex mt-30 wow fadeInUp" data-wow-duration="1.0s" data-wow-delay="1.8s">
-                    <img src="{{ url('landing/assets/images/f8.png') }}" class="rounded float-right">
-                </div>
-        </div> <!-- row -->
-    </div> <!-- container -->
-</section>
-
-<!--====== ABOUT PART ENDS ======-->
-
-<!--====== ABOUT PART START ======-->
-
-<section id="about" class="about-area">
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-xl-6 col-lg-8">
-            </div>
-        </div> <!-- row -->
-        
-        <div class="row">
-            <div class="col-lg-6">
-                <div class="single-about d-sm-flex mt-30 wow fadeInUp" data-wow-duration="1.0s" data-wow-delay="1.2s">
-                    <img src="{{ url('landing/assets/images/f9.png') }}" class="rounded float-left">
-                </div>
-            </div>
-
-            <div class="col-lg-6">
-                <div class="single-about d-sm-flex mt-30 wow fadeInUp" data-wow-duration="1.0s" data-wow-delay="1.4s">
-                    <img src="{{ url('landing/assets/images/f10.png') }}" class="rounded float-right">
-                </div>
-            </div>
-
-            <div class="col-lg-6">
-                <div class="single-about d-sm-flex mt-30 wow fadeInUp" data-wow-duration="1.0s" data-wow-delay="1.6s">
-                    <img src="{{ url('landing/assets/images/f11.png') }}" class="rounded float-left">
-                </div>
-            </div>
-
-            <div class="col-lg-6">
-                <div class="single-about d-sm-flex mt-30 wow fadeInUp" data-wow-duration="1.0s" data-wow-delay="1.8s">
-                    <img src="{{ url('landing/assets/images/f12.png') }}" class="rounded float-right">
-                </div>
-        </div> <!-- row -->
+                <div class="ws_script" style="position:absolute;left:-99%"></div>
+                <div class="ws_shadow"></div>
+        </div>
+            <script type="text/javascript" src="{{ url('landing/assets/engine1/wowslider.js') }}"></script>
+            <script type="text/javascript" src="{{ url('landing/assets/engine1/script.js') }}"></script>
+            <!-- End WOWSlider.com BODY section -->    
     </div> <!-- container -->
 </section>
 
@@ -261,7 +201,7 @@
                     <div class="pricing-header text-center">
                         <h5 class="sub-title">Harga Terjangkau</h5>
                         <br>
-                        <p class="text" style="text-align: justify;">Bumi Sukasari Indah memiliki harga yang sangat terjangkau dan dapat dicicil hanya dengan 800rb-an.</p>
+                        <p class="text" style="text-align: justify;">Bumi Sukasari Indah memiliki harga yang sangat terjangkau dan dapat dicicil hanya dengan 900rb-an.</p>
                         <br>
                     </div>
                 </div> <!-- pricing style one -->
@@ -521,7 +461,7 @@
                     <p class="text wow fadeInUp" data-wow-duration="1.0s" data-wow-delay="1.0s"><h2><b>Harga Spesial Hanya</b></h2></p>
                     <p class="text wow fadeInUp" data-wow-duration="1.0s" data-wow-delay="1.1s"><h2><b style="color: #00BAFF">Rp 150.500.000</b></h2></p>
                     <br><br>
-                    <p class="text wow fadeInUp" data-wow-duration="1.0s" data-wow-delay="1.4s"><h2><b>Cicilan mulai dari</b> <b style="color: #00BAFF">Rp 800.000</b></h2></p>
+                    <p class="text wow fadeInUp" data-wow-duration="1.0s" data-wow-delay="1.4s"><h2><b>Cicilan mulai dari</b> <b style="color: #00BAFF">Rp 900.000</b></h2></p>
                     <p class="text wow fadeInUp" data-wow-duration="1.0s" data-wow-delay="1.5s"><h2><b>Proses Cepat dan Bebas Pilih Unit!!!</b></h2></p>
                 </div> <!-- section title -->
             </div>
@@ -580,28 +520,28 @@
                         <div class="form-input mt-15">
                             <label>Nama</label>
                             <div class="input-items default">
-                                <input type="nama" placeholder="Nama" name="nama" id="name" required>
+                                <input type="nama" placeholder="Nama" name="nama" required>
                                 <i class="lni-user"></i>
                             </div>
                         </div> <!-- form input -->
                         <div class="form-input mt-15">
                             <label>No. Handphone / Whatsapp</label>
                             <div class="input-items default">
-                                <input type="telp" placeholder="No. Handphone / Whatsapp" name="telp" id="telp" required>
+                                <input type="telp" placeholder="No. Handphone / Whatsapp" name="telp" required>
                                 <i class="lni-phone-handset"></i>
                             </div>
                         </div> <!-- form input -->
                         <div class="form-input mt-15">
                             <label>Email</label>
                             <div class="input-items default">
-                                <input type="email" placeholder="Email" name="email" id="email" required>
+                                <input type="email" placeholder="Email" name="email" required>
                                 <i class="lni-envelope"></i>
                             </div>
                         </div> <!-- form input -->
                         <div class="form-input mt-15">
                             <label>Pesan</label>
                             <div class="input-items default">
-                                <textarea placeholder="Pesan" name="pesan" id="message"></textarea>
+                                <textarea placeholder="Pesan" name="pesan"></textarea>
                                 <i class="lni-pencil-alt"></i>
                             </div>
                         </div> <!-- form input -->

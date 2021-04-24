@@ -18,6 +18,8 @@ class HomeController extends Controller
             'g-recaptcha-response' => 'required|captcha'
     ]);
 
+        $data = $request->all();
+        
         Message::create($data);
 
         return redirect()->route('landingpage');

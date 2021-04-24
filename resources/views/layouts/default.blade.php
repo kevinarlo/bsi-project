@@ -8,6 +8,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
+    <!-- Start WOWSlider.com HEAD section -->
+    <link rel="stylesheet" type="text/css" href="{{ url('landing/assets/engine1/style.css') }}" />
+    <script type="text/javascript" src="{{ url('landing/assets/engine1/jquery.js') }}"></script>
+    <!-- End WOWSlider.com HEAD section -->
+
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-X4WXXYN7Y6"></script>
         <script>
