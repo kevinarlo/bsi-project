@@ -42,6 +42,8 @@
 
     @include('includes.wa')
 
+    @include('includes.mylivechat')
+
     @include('includes.footer')
 
     @include('includes.script')
