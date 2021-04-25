@@ -12,6 +12,9 @@
 
                     <!-- DataTales Example -->
                     <div class="card shadow mb-4">
+                        <div class="card-header">
+                            <a href="{{ route('pesanexport') }}" class="btn btn-success">Export</a>
+                        </div>
                         <div class="card-body">
                             <div class="table-responsive">
                                 <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
@@ -22,7 +25,6 @@
                                             <th>Email</th>
                                             <th>No. Hp</th>
                                             <th>Pesan</th>
-                                            <th>Action</th>
                                         </tr>
                                     </thead>
                                     
@@ -34,7 +36,7 @@
                                             <td>{{ $item->email }}</td>
                                             <td>{{ $item->telp }}</td>
                                             <td>{{ $item->pesan }}</td>
-                                            <td>
+                                            {{-- <td>
                                                 <form action="{{ route('pesan.destroy', $item->id) }}" method="POST"
                                                 class="d-inline">
                                                 @csrf
@@ -43,7 +45,7 @@
                                                     <i class="fa fa-trash"></i>
                                                 </button>
                                                 </form>
-                                            </td>
+                                            </td> --}}
                                         </tr>
                                         @empty
                                         <tr>

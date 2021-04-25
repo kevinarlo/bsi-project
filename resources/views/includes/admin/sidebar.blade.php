@@ -29,7 +29,7 @@
 
 <!-- Nav Item - Charts -->
 <li class="nav-item">
-    <a class="nav-link" href="{{ route('pesan.index') }}">
+    <a class="nav-link" href="{{ route('pesan') }}">
         <i class="fas fa-fw fa-comment-dots"></i>
         <span>Pesan</span></a>
 </li>

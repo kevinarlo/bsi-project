@@ -4,7 +4,10 @@ namespace App\Http\Controllers\admin;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
+
 use App\Message;
+use App\Exports\MessageExport;
+use Maatwebsite\Excel\Facades\Excel;
 
 class PesanController extends Controller
 {
@@ -19,6 +22,11 @@ class PesanController extends Controller
         return view('pages.admin.pesan.index', [
             'items' => $items
         ]);
+    }
+
+    public function messageexport()
+    {
+        return Excel::download(new MessageExport,'document.xlsx');
     }
 
     /**

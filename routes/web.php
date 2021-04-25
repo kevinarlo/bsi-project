@@ -28,8 +28,10 @@ Route::prefix('admin')
                 Route::get('/', 'DashboardController@index')
                         ->name('dashboard');
                 
-                Route::resource('pesan', PesanController::class);
-
+                Route::get('pesan','PesanController@index')
+                        ->name('pesan');
+                Route::get('pesanexport','PesanController@messageexport')
+                        ->name('pesanexport');
         });
 Auth::routes();
 
