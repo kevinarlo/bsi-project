@@ -13,11 +13,11 @@
         <div class="row justify-content-center">
             <div class="col-xl-6 col-lg-8">
                 <div class="section-title text-center mt-30 pb-40">
-                    <h4 class="title wow fadeInUp" data-wow-duration="1.0s" data-wow-delay="0.6s">Bumi Sukasari Indah</h4>
+                    <h4 class="title wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="0.6s">Bumi Sukasari Indah</h4>
                     <br><br>
-                    <p class="text wow fadeInUp" data-wow-duration="1.0s" data-wow-delay="1s">Bumi Sukasari Indah hadir untuk menjadi solusi yang tepat dan Memberikan hunian yang nyaman aman bagi masa depan anda.</p>
+                    <p class="text wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="0.8s">Bumi Sukasari Indah hadir untuk menjadi solusi yang tepat dan Memberikan hunian yang nyaman aman bagi masa depan anda.</p>
                     <br>
-                    <p class="text wow fadeInUp" data-wow-duration="1.0s" data-wow-delay="1s">Dengan luas lahan mencapai 25 Hektar, Bumi Sukasari Indah telah tersedia fasilitas yang lengkap seperti masjid dan lapangan olahraga</p>
+                    <p class="text wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="1.0s">Dengan luas lahan mencapai 25 Hektar, Bumi Sukasari Indah telah tersedia fasilitas yang lengkap seperti masjid dan lapangan olahraga</p>
                 </div> <!-- section title -->
             </div>
         </div> <!-- row -->
@@ -74,7 +74,7 @@
         <div class="row justify-content-center">
             <div class="col-xl-6 col-lg-8">
                 <div class="section-title text-center">
-                    <h4 class="title wow fadeInUp" data-wow-duration="1.0s" data-wow-delay="0.6s">Kenapa harus Bumi Sukasari Indah ?</h4>
+                    <h4 class="title wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="0.6s">Kenapa harus Bumi Sukasari Indah ?</h4>
                 </div> <!-- section title -->
             </div>
         </div> <!-- row -->
@@ -83,7 +83,7 @@
         
         <div class="row">
             <div class="col-lg-6">
-                <div class="single-about d-sm-flex mt-30 wow fadeInUp" data-wow-duration="1.0s" data-wow-delay="1.2s">
+                <div class="single-about d-sm-flex mt-30 wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="1.0s">
                     <div class="about-icon">
                         <i class="fa fa-check-square fa-5x" style="color: #00E5A3" aria-hidden="true"></i>
                     </div>
@@ -95,7 +95,7 @@
             </div>
 
             <div class="col-lg-6">
-                <div class="single-about d-sm-flex mt-30 wow fadeInUp" data-wow-duration="1.0s" data-wow-delay="1.4s">
+                <div class="single-about d-sm-flex mt-30 wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="1.2s">
                     <div class="about-icon">
                         <i class="fa fa-check-square fa-5x" style="color: #00E5A3" aria-hidden="true"></i>
                     </div>
@@ -107,7 +107,7 @@
             </div>
 
             <div class="col-lg-6">
-                <div class="single-about d-sm-flex mt-30 wow fadeInUp" data-wow-duration="1.0s" data-wow-delay="1.6s">
+                <div class="single-about d-sm-flex mt-30 wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="1.4s">
                     <div class="about-icon">
                         <i class="fa fa-check-square fa-5x" style="color: #00E5A3" aria-hidden="true"></i>
                     </div>
@@ -119,7 +119,7 @@
             </div>
 
             <div class="col-lg-6">
-                <div class="single-about d-sm-flex mt-30 wow fadeInUp" data-wow-duration="1.0s" data-wow-delay="1.8s">
+                <div class="single-about d-sm-flex mt-30 wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="1.6s">
                     <div class="about-icon">
                         <i class="fa fa-check-square fa-5x" style="color: #00E5A3" aria-hidden="true"></i>
                     </div>
@@ -131,7 +131,7 @@
             </div>
 
             <div class="col-lg-6">
-                <div class="single-about d-sm-flex mt-30 wow fadeInUp" data-wow-duration="1.0s" data-wow-delay="2.0s">
+                <div class="single-about d-sm-flex mt-30 wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="1.8s">
                     <div class="about-icon">
                         <i class="fa fa-check-square fa-5x" style="color: #00E5A3" aria-hidden="true"></i>
                     </div>
@@ -143,7 +143,7 @@
             </div>
 
             <div class="col-lg-6">
-                <div class="single-about d-sm-flex mt-30 wow fadeInUp" data-wow-duration="1.0s" data-wow-delay="2.2s">
+                <div class="single-about d-sm-flex mt-30 wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="2.0s">
                     <div class="about-icon">
                         <i class="fa fa-check-square fa-5x" style="color: #00E5A3" aria-hidden="true"></i>
                     </div>
@@ -165,7 +165,7 @@
     <div class="container">
         <div class="row justify-content-center">                
             <div class="col-lg-4 col-md-7 col-sm-9">
-                <div class="pricing-style-one mt-40 wow fadeIn" data-wow-duration="1.0s" data-wow-delay="0.2s">
+                <div class="pricing-style-one mt-40 wow fadeIn" data-wow-duration="0.6s" data-wow-delay="1.0s">
                     <div class="pricing-icon text-center">
                         <center><i class="fa fa-map-marker fa-5x" aria-hidden="true" style="color: #00BAFF"></i></center>
                     </div>
@@ -179,7 +179,7 @@
             </div>
             
             <div class="col-lg-4 col-md-7 col-sm-9">
-                <div class="pricing-style-one mt-40 wow fadeIn" data-wow-duration="1.0s" data-wow-delay="0.5s">
+                <div class="pricing-style-one mt-40 wow fadeIn" data-wow-duration="0.6s" data-wow-delay="1.2s">
                     <div class="pricing-icon text-center">
                         <center><i class="fa fa-shield fa-5x" aria-hidden="true" style="color: #00BAFF"></i></center>
                     </div>
@@ -194,7 +194,7 @@
             </div>
             
             <div class="col-lg-4 col-md-7 col-sm-9">
-                <div class="pricing-style-one mt-40 wow fadeIn" data-wow-duration="1.0s" data-wow-delay="0.8s">
+                <div class="pricing-style-one mt-40 wow fadeIn" data-wow-duration="0.6s" data-wow-delay="1.4s">
                     <div class="pricing-icon text-center">
                         <center><i class="fa fa-money fa-5x" aria-hidden="true" style="color: #00BAFF"></i></center>
                     </div>
@@ -219,11 +219,11 @@
         <div class="row justify-content-center">
             <div class="col-xl-8 col-lg-8"></div>
                 <div class="section-title text-center mt-30 pb-40">
-                    <h4 class="title wow fadeInUp" data-wow-duration="1.0s" data-wow-delay="0.6s">Bumi Sukasari Indah</h4>
+                    <h4 class="title wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="0.6s">Bumi Sukasari Indah</h4>
                     <br><br>
-                    <p class="text wow fadeInUp" data-wow-duration="1.0s" data-wow-delay="1.0s">Pilihan lainnya untuk rumah subsidi Karawang adalah Bumi Sukasari Indah. Perumahan ini berada di lingkungan yang sangat tertata. Di sekitarnya juga terdapat supermarket dan ruko-ruko yang menyediakan kebutuhan pokok.</p>
+                    <p class="text wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="1.0s">Pilihan lainnya untuk rumah subsidi Karawang adalah Bumi Sukasari Indah. Perumahan ini berada di lingkungan yang sangat tertata. Di sekitarnya juga terdapat supermarket dan ruko-ruko yang menyediakan kebutuhan pokok.</p>
                     <br>
-                    <p class="text wow fadeInUp" data-wow-duration="1.0s" data-wow-delay="1.2s">Di sisi Perumahan Bumi Sukasari Indah terdapat sawah hijau yang sangat luas.Perumahan bumi sukasari indah dikembangkan oleh PT. Karinda Bangun Nusa. Perumahan subsidi ini di jual hanya dengan 140juta per unitnya. Fasilitas rumah sudah termasuk kamar mandi, dua kamar tidur, daya listrik 900 watt.</p>
+                    <p class="text wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="1.2s">Di sisi Perumahan Bumi Sukasari Indah terdapat sawah hijau yang sangat luas.Perumahan bumi sukasari indah dikembangkan oleh PT. Karinda Bangun Nusa. Perumahan subsidi ini di jual hanya dengan 140juta per unitnya. Fasilitas rumah sudah termasuk kamar mandi, dua kamar tidur, daya listrik 900 watt.</p>
                 </div> <!-- section title -->
             </div>
         </div> <!-- row -->
@@ -239,7 +239,7 @@
         <div class="row justify-content-center">
             <div class="col-xl-8 col-lg-8">
                 <div class="section-title text-center">
-                    <h4 class="title wow fadeInUp" data-wow-duration="1.0s" data-wow-delay="0.6s">Kelebihan Bumi Sukasari Indah</h4>
+                    <h4 class="title wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="0.6s">Kelebihan Bumi Sukasari Indah</h4>
                 </div> <!-- section title -->
             </div>
         </div> <!-- row -->
@@ -248,7 +248,7 @@
         
         <div class="row">
             <div class="col-lg-6">
-                <div class="single-about d-sm-flex mt-30 wow fadeInUp" data-wow-duration="1.0s" data-wow-delay="1.2s">
+                <div class="single-about d-sm-flex mt-30 wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="1.0s">
                     <div class="about-icon">
                         <i class="fa fa-check-square fa-5x" style="color: #00E5A3" aria-hidden="true"></i>
                     </div>
@@ -260,7 +260,7 @@
             </div>
 
             <div class="col-lg-6">
-                <div class="single-about d-sm-flex mt-30 wow fadeInUp" data-wow-duration="1.0s" data-wow-delay="1.4s">
+                <div class="single-about d-sm-flex mt-30 wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="1.2s">
                     <div class="about-icon">
                         <i class="fa fa-check-square fa-5x" style="color: #00E5A3" aria-hidden="true"></i>
                     </div>
@@ -272,7 +272,7 @@
             </div>
 
             <div class="col-lg-6">
-                <div class="single-about d-sm-flex mt-30 wow fadeInUp" data-wow-duration="1.0s" data-wow-delay="1.6s">
+                <div class="single-about d-sm-flex mt-30 wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="1.4s">
                     <div class="about-icon">
                         <i class="fa fa-check-square fa-5x" style="color: #00E5A3" aria-hidden="true"></i>
                     </div>
@@ -284,7 +284,7 @@
             </div>
 
             <div class="col-lg-6">
-                <div class="single-about d-sm-flex mt-30 wow fadeInUp" data-wow-duration="1.0s" data-wow-delay="1.8s">
+                <div class="single-about d-sm-flex mt-30 wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="1.6s">
                     <div class="about-icon">
                         <i class="fa fa-check-square fa-5x" style="color: #00E5A3" aria-hidden="true"></i>
                     </div>
@@ -296,7 +296,7 @@
             </div>
 
             <div class="col-lg-6">
-                <div class="single-about d-sm-flex mt-30 wow fadeInUp" data-wow-duration="1.0s" data-wow-delay="2.0s">
+                <div class="single-about d-sm-flex mt-30 wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="1.8s">
                     <div class="about-icon">
                         <i class="fa fa-check-square fa-5x" style="color: #00E5A3" aria-hidden="true"></i>
                     </div>
@@ -308,7 +308,7 @@
             </div>
 
             <div class="col-lg-6">
-                <div class="single-about d-sm-flex mt-30 wow fadeInUp" data-wow-duration="1.0s" data-wow-delay="2.2s">
+                <div class="single-about d-sm-flex mt-30 wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="2.0s">
                     <div class="about-icon">
                         <i class="fa fa-check-square fa-5x" style="color: #00E5A3" aria-hidden="true"></i>
                     </div>
@@ -320,7 +320,7 @@
             </div>
 
             <div class="col-lg-6">
-                <div class="single-about d-sm-flex mt-30 wow fadeInUp" data-wow-duration="1.0s" data-wow-delay="2.4s">
+                <div class="single-about d-sm-flex mt-30 wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="2.2s">
                     <div class="about-icon">
                         <i class="fa fa-check-square fa-5x" style="color: #00E5A3" aria-hidden="true"></i>
                     </div>
@@ -332,7 +332,7 @@
             </div>
 
             <div class="col-lg-6">
-                <div class="single-about d-sm-flex mt-30 wow fadeInUp" data-wow-duration="1.0s" data-wow-delay="2.6s">
+                <div class="single-about d-sm-flex mt-30 wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="2.4s">
                     <div class="about-icon">
                         <i class="fa fa-check-square fa-5x" style="color: #00E5A3" aria-hidden="true"></i>
                     </div>
@@ -344,7 +344,7 @@
             </div>
 
             <div class="col-lg-6">
-                <div class="single-about d-sm-flex mt-30 wow fadeInUp" data-wow-duration="1.0s" data-wow-delay="2.8s">
+                <div class="single-about d-sm-flex mt-30 wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="2.6s">
                     <div class="about-icon">
                         <i class="fa fa-check-square fa-5x" style="color: #00E5A3" aria-hidden="true"></i>
                     </div>
@@ -356,7 +356,7 @@
             </div>
 
             <div class="col-lg-6">
-                <div class="single-about d-sm-flex mt-30 wow fadeInUp" data-wow-duration="1.0s" data-wow-delay="3.0s">
+                <div class="single-about d-sm-flex mt-30 wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="2.8s">
                     <div class="about-icon">
                         <i class="fa fa-check-square fa-5x" style="color: #00E5A3" aria-hidden="true"></i>
                     </div>
@@ -388,7 +388,7 @@
 
         <div class="row justify-content-center">                
             <div class="col-lg-6 col-md-8 col-sm-10">
-                <div class="pricing-style-one mt-40 wow fadeIn" data-wow-duration="1.0s" data-wow-delay="0.2s">
+                <div class="pricing-style-one mt-40 wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.6s">
                     <div class="pricing-icon text-center">
                         <center><i class="fa fa-thumb-tack fa-5x" aria-hidden="true" style="color: #00BAFF"></i></center>
                     </div>
@@ -402,7 +402,7 @@
             </div>
             
             <div class="col-lg-6 col-md-8 col-sm-10">
-                <div class="pricing-style-one mt-40 wow fadeIn" data-wow-duration="1.0s" data-wow-delay="0.5s">
+                <div class="pricing-style-one mt-40 wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.8s">
                     <div class="pricing-icon text-center">
                         <center><i class="fa fa-thumb-tack fa-5x" aria-hidden="true" style="color: #00BAFF"></i></center>
                     </div>
@@ -416,7 +416,7 @@
             </div>
             
             <div class="col-lg-6 col-md-8 col-sm-10">
-                <div class="pricing-style-one mt-40 wow fadeIn" data-wow-duration="1.0s" data-wow-delay="0.8s">
+                <div class="pricing-style-one mt-40 wow fadeIn" data-wow-duration="0.6s" data-wow-delay="1.0s">
                     <div class="pricing-icon text-center">
                         <center><i class="fa fa-thumb-tack fa-5x" aria-hidden="true" style="color: #00BAFF"></i></center>
                     </div>
@@ -430,7 +430,7 @@
             </div>
 
             <div class="col-lg-6 col-md-8 col-sm-10">
-                <div class="pricing-style-one mt-40 wow fadeIn" data-wow-duration="1.0s" data-wow-delay="0.8s">
+                <div class="pricing-style-one mt-40 wow fadeIn" data-wow-duration="0.6s" data-wow-delay="1.0s">
                     <div class="pricing-icon text-center">
                         <center><i class="fa fa-thumb-tack fa-5x" aria-hidden="true" style="color: #00BAFF"></i></center>
                     </div>
@@ -455,14 +455,14 @@
         <div class="row justify-content-center">
             <div class="col-xl-8 col-lg-8"></div>
                 <div class="section-title text-center mt-30 pb-40">
-                    <p class="text wow fadeInUp" data-wow-duration="1.0s" data-wow-delay="1.2s"><h2><b>Promo Spesial 2021</b></h2></p>
-                    <p class="text wow fadeInUp" data-wow-duration="1.0s" data-wow-delay="1.3s"><h2><b style="color: #00BAFF">DP Rp 500.000</b> <b>Sudah Bisa Dapat Rumah</b></h2></p>
+                    <p class="text wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="1.0s"><h2><b>Promo Spesial 2021</b></h2></p>
+                    <p class="text wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="1.2s"><h2><b style="color: #00BAFF">DP Rp 500.000</b> <b>Sudah Bisa Dapat Rumah</b></h2></p>
                     <br><br>
-                    <p class="text wow fadeInUp" data-wow-duration="1.0s" data-wow-delay="1.0s"><h2><b>Harga Spesial Hanya</b></h2></p>
-                    <p class="text wow fadeInUp" data-wow-duration="1.0s" data-wow-delay="1.1s"><h2><b style="color: #00BAFF">Rp 150.500.000</b></h2></p>
+                    <p class="text wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="1.4s"><h2><b>Harga Spesial Hanya</b></h2></p>
+                    <p class="text wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="1.6s"><h2><b style="color: #00BAFF">Rp 150.500.000</b></h2></p>
                     <br><br>
-                    <p class="text wow fadeInUp" data-wow-duration="1.0s" data-wow-delay="1.4s"><h2><b>Cicilan mulai dari</b> <b style="color: #00BAFF">Rp 900.000</b></h2></p>
-                    <p class="text wow fadeInUp" data-wow-duration="1.0s" data-wow-delay="1.5s"><h2><b>Proses Cepat dan Bebas Pilih Unit!!!</b></h2></p>
+                    <p class="text wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="1.8s"><h2><b>Cicilan mulai dari</b> <b style="color: #00BAFF">Rp 900.000</b></h2></p>
+                    <p class="text wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="2.0s"><h2><b>Proses Cepat dan Bebas Pilih Unit!!!</b></h2></p>
                 </div> <!-- section title -->
             </div>
         </div> <!-- row -->
@@ -484,7 +484,7 @@
         </div> <!-- row -->
         <div class="row">
             <div class="col-lg-6">
-                <div class="contact-two mt-50 wow fadeIn" data-wow-duration="1.0s" data-wow-delay="0.2s">
+                <div class="contact-two mt-50 wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.2s">
                     <ul class="contact-info">
                         <li>
                             <a href="tel:+6282111833320">
