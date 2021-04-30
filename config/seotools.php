@@ -14,7 +14,7 @@ return [
             'description'  => 'Hunian Masa Depan Anda', // set false to total remove
             'separator'    => ' - ',
             'keywords'     => ['Perumahan Subsidi', 'Hunian Masa Depan', 'Rumah Subsidi Karawang'],
-            'canonical'    => false, // Set null for using Url::current(), set false to total remove
+            'canonical'    => 'https://bumisukasariindah.com/', // Set null for using Url::current(), set false to total remove
             'robots'       => false, // Set to 'all', 'none' or any combination of index/noindex and follow/nofollow
         ],
         /*
