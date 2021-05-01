@@ -4,9 +4,9 @@
 <!-- Sidebar - Brand -->
 <a class="sidebar-brand d-flex align-items-center justify-content-center" href="{{ route('dashboard') }}">
     <div class="sidebar-brand-icon">
-        <i class="fas fa-laugh-wink"></i>
+        <i class="fas fa-home"></i>
     </div>
-    <div class="sidebar-brand-text mx-3">Bumi Sukasari Indah</div>
+    <div class="sidebar-brand-text mx-1">Bumi Sukasari Indah</div>
 </a>
 
 <!-- Divider -->
@@ -14,17 +14,9 @@
 
 <!-- Nav Item - Pages Collapse Menu -->
 <li class="nav-item">
-    <a class="nav-link" href="#">
+    <a class="nav-link" href="{{ route('dashboard') }}">
         <i class="fas fa-fw fa-tachometer-alt"></i>
         <span>Dashboard</span></a>
-</li>
-
-<!-- Nav Item - Pages Collapse Menu -->
-<li class="nav-item">
-    <a class="nav-link" href="#">
-        <i class="fas fa-fw fa-newspaper"></i>
-        <span>Document</span>
-    </a>
 </li>
 
 <!-- Nav Item - Charts -->

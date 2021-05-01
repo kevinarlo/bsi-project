@@ -7,4 +7,4 @@
     <link href="{{ url('backend/vendor/datatables/dataTables.bootstrap4.min.css') }}" rel="stylesheet">
 
     <!-- Favicon -->
-    <link rel="icon" href="{{url('ppdi-frontend/images/favicon.ico')}}">
+    <link rel="icon" href="{{url('landing/assets/images/logo_favicon.ico')}}">
