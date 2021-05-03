@@ -15,13 +15,17 @@
                 <div class="section-title text-center mt-30 pb-40">
                     <h4 class="title wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="0.6s">Bumi Sukasari Indah</h4>
                     <br><br>
-                    <p class="text wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="0.8s">Bumi Sukasari Indah hadir untuk menjadi solusi yang tepat dan Memberikan hunian yang nyaman aman bagi masa depan anda.</p>
+                    <p class="text wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="0.8s" style="text-align: justify">Bumi Sukasari Indah hadir untuk menjadi solusi yang tepat dan Memberikan hunian yang nyaman aman bagi masa depan anda.</p>
                     <br>
-                    <p class="text wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="1.0s">Dengan luas lahan mencapai 25 Hektar, Bumi Sukasari Indah telah tersedia fasilitas yang lengkap seperti masjid dan lapangan olahraga</p>
+                    <p class="text wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="1.0s" style="text-align: justify">Dengan luas lahan mencapai 25 Hektar, Bumi Sukasari Indah telah tersedia fasilitas yang lengkap seperti masjid dan lapangan olahraga</p>
                 </div> <!-- section title -->
             </div>
         </div> <!-- row -->
-   
+        
+        
+        <hr size="100px">
+        <br>
+
         <!-- Start WOWSlider.com BODY section -->
         <div id="wowslider-container1">
             <div class="ws_images">
@@ -217,13 +221,19 @@
 <section id="about" class="about-area">
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-xl-8 col-lg-8"></div>
+            <div class="col-xl-6 col-lg-8">
                 <div class="section-title text-center mt-30 pb-40">
                     <h4 class="title wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="0.6s">Bumi Sukasari Indah</h4>
                     <br><br>
-                    <p class="text wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="1.0s">Pilihan lainnya untuk rumah subsidi Karawang adalah Bumi Sukasari Indah. Perumahan ini berada di lingkungan yang sangat tertata. Di sekitarnya juga terdapat supermarket dan ruko-ruko yang menyediakan kebutuhan pokok.</p>
+                    <p class="text wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="0.8s" style="text-align: justify">Pilihan lainnya untuk rumah subsidi Karawang adalah Bumi Sukasari Indah.</p>
                     <br>
-                    <p class="text wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="1.2s">Di sisi Perumahan Bumi Sukasari Indah terdapat sawah hijau yang sangat luas.Perumahan bumi sukasari indah dikembangkan oleh PT. Karinda Bangun Nusa. Perumahan subsidi ini di jual hanya dengan 140juta per unitnya. Fasilitas rumah sudah termasuk kamar mandi, dua kamar tidur, daya listrik 900 watt.</p>
+                    <p class="text wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="1.0s" style="text-align: justify">Perumahan ini berada di lingkungan yang sangat tertata. Di sekitarnya juga terdapat supermarket dan ruko-ruko yang menyediakan kebutuhan pokok.</p>
+                    <br>
+                    <hr size="100px">
+                    <br>
+                    <p class="text wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="1.2s" style="text-align: justify">Di sisi Perumahan Bumi Sukasari Indah terdapat sawah hijau yang sangat luas. Perumahan bumi sukasari indah dikembangkan oleh PT. Karinda Bangun Nusa.</p>
+                    <br>
+                    <p class="text wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="1.4s" style="text-align: justify">Perumahan subsidi ini di jual hanya dengan 140juta per unitnya. Fasilitas rumah sudah termasuk kamar mandi, dua kamar tidur, daya listrik 900 watt.</p>
                 </div> <!-- section title -->
             </div>
         </div> <!-- row -->

@@ -64,11 +64,9 @@
 
     {{-- @include('includes.preloader') --}}
 
-    @include('includes.header')
+    @include('includes.privacy.header')
 
     @yield('content')
-
-    @yield('scripts-reCAPTCHA')
 
     @include('includes.wa')
 

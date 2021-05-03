@@ -19,6 +19,12 @@ Route::get('/', 'HomeController@index')
 Route::post('/', 'HomeController@create')
         ->name('landingpage-create');
 
+Route::get('/privacy-policy', 'PrivacypolicyController@index')
+        ->name('privacy-policy');
+
+Route::get('/terms-&-conditions', 'TermsController@index')
+        ->name('terms-&-conditions');
+
 
 // Backend
 Route::prefix('admin')

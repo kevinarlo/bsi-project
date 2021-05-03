@@ -49,14 +49,19 @@
     <div class="footer-copyright">
         <div class="container">
             <div class="row align-items-center">
-                <div class="col-lg-5">
+                <div class="col-lg-4">
                     <div class="copyright text-center mt-10">
                         <p class="text" style="color: black">Copyright &copy;<script>document.write(new Date().getFullYear());</script> | <a style="color: #38f9d7" rel="nofollow" href="index.html">Bumi Sukasari Indah</a></p>
                     </div> <!--  copyright -->
                 </div>
-                <div class="col-lg-5">
-                    <ul class="copyright text-center mt-10">
-                        <li><a href="#">Terms & Conditions</a></li>
+                <div class="col-lg-4">
+                    <ul class="copyright text-center mt-10 ml-200">
+                        <li><a href="{{ route('privacy-policy') }}">Privacy Policy</a></li>
+                    </ul> <!-- social -->
+                </div>
+                <div class="col-lg-4">
+                    <ul class="copyright text-center mt-10 mr-180">
+                        <li><a href="{{ route('terms-&-conditions') }}">Terms & Conditions</a></li>
                     </ul> <!-- social -->
                 </div>
             </div> <!-- row -->
