@@ -10,7 +10,7 @@
                         <ul>
                             <li><a href="https://www.facebook.com/Bumi-Sukasari-Indah-102426425319921" target="_blank"><b style="color: #3b5998"><i class="lni-facebook-filled"></i>&nbsp;Facebook</b></a></li>
                             <li><a href="https://instagram.com/perumbsiofficial/" target="_blank"><b style="color: #C13584"><i class="lni-instagram-original"></i>&nbsp;Instagram</b></a></li>
-                            <li><a href="https://api.whatsapp.com/send?phone=6282111833320" target="_blank"><b style="color: #25D366"><i class="lni-whatsapp"></i>&nbsp;Whatsapp</b></a></li>
+                            <li><a href="https://wa.me/6282111833320?text=Saya%20tertarik%20dengan%20perumahan%20Bumi%20Sukasari%20Indah" target="_blank"><b style="color: #25D366"><i class="lni-whatsapp"></i>&nbsp;Whatsapp</b></a></li>
                         </ul>
                     </div> <!-- footer link -->
                 </div>

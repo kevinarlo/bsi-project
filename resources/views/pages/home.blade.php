@@ -233,7 +233,7 @@
                     <br>
                     <p class="text wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="1.2s" style="text-align: justify">Di sisi Perumahan Bumi Sukasari Indah terdapat sawah hijau yang sangat luas. Perumahan bumi sukasari indah dikembangkan oleh PT. Karinda Bangun Nusa.</p>
                     <br>
-                    <p class="text wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="1.4s" style="text-align: justify">Perumahan subsidi ini di jual hanya dengan 140juta per unitnya. Fasilitas rumah sudah termasuk kamar mandi, dua kamar tidur, daya listrik 900 watt.</p>
+                    <p class="text wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="1.4s" style="text-align: justify">Perumahan subsidi ini di jual hanya dengan 150juta per unitnya. Fasilitas rumah sudah termasuk kamar mandi, dua kamar tidur, daya listrik 900 watt.</p>
                 </div> <!-- section title -->
             </div>
         </div> <!-- row -->
@@ -466,13 +466,14 @@
             <div class="col-xl-8 col-lg-8"></div>
                 <div class="section-title text-center mt-30 pb-40">
                     <p class="text wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="1.0s"><h2><b>Promo Spesial 2021</b></h2></p>
-                    <p class="text wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="1.2s"><h2><b style="color: #00BAFF">DP Rp 500.000</b> <b>Sudah Bisa Dapat Rumah</b></h2></p>
+                    <p class="text wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="1.2s"><h2><b style="color: #00BAFF">DP 0% Booking Fee Rp 500.000</b></h2></p>
+                    <p class="text wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="1.4s"><h2><b>Sudah Bisa Dapat Rumah</b></h2></p>
                     <br><br>
-                    <p class="text wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="1.4s"><h2><b>Harga Spesial Hanya</b></h2></p>
-                    <p class="text wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="1.6s"><h2><b style="color: #00BAFF">Rp 150.500.000</b></h2></p>
+                    <p class="text wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="1.6s"><h2><b>Harga Spesial Hanya</b></h2></p>
+                    <p class="text wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="1.8s"><h2><b style="color: #00BAFF">Rp 150.500.000</b></h2></p>
                     <br><br>
-                    <p class="text wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="1.8s"><h2><b>Cicilan mulai dari</b> <b style="color: #00BAFF">Rp 900.000</b></h2></p>
-                    <p class="text wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="2.0s"><h2><b>Proses Cepat dan Bebas Pilih Unit!!!</b></h2></p>
+                    <p class="text wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="2.0s"><h2><b>Cicilan mulai dari</b>&nbsp;<b style="color: #00BAFF">Rp 900.000-an</b></h2></p>
+                    <p class="text wow fadeInUp" data-wow-duration="0.6s" data-wow-delay="2.2s"><h2><b>Proses Cepat dan Bebas Pilih Unit!!!</b></h2></p>
                 </div> <!-- section title -->
             </div>
         </div> <!-- row -->
@@ -511,14 +512,14 @@
                         <li><br></li>
 
                         <li>
-                            <a href="https://g.page/agungpropertyy?share" target="_blank">
+                            <a href="https://goo.gl/maps/WtFxDgsXa5cvPxi38" target="_blank">
                             <i class="lni-money-location"></i>Jl. Sukasari, Sukasari, Kec. Purwasari, Kabupaten Karawang, Jawa Barat 41373</a>
                         </li>
 
                         <li><br></li>
 
                         <li>
-                        <iframe class="embed-responsive embed-responsive-1by1" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3965.198340817966!2d107.41083371476992!3d-6.368372995391761!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69731af4453d21%3A0x91d14073ed4d2849!2sPERUM%20BUMI%20SUKASARI%20INDAH!5e0!3m2!1sid!2sid!4v1618676730061!5m2!1sid!2sid" width="450" height="300" style="border:0;" allowfullscreen="" loading="lazy" aria-hidden="false" tabindex="0"></iframe>
+                        <iframe class="embed-responsive embed-responsive-1by1" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3965.1987973037235!2d107.41084681476991!3d-6.368313895391789!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x7167175db2c7c55c!2sBumi%20Sukasari%20Indah!5e0!3m2!1sid!2sid!4v1621187444602!5m2!1sid!2sid" width="450" height="300" style="border:0;" allowfullscreen="" loading="lazy" aria-hidden="false" tabindex="0"></iframe>
                         </li>
                     </ul>
                 </div> <!-- contact two -->
